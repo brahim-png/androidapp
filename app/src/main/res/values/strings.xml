@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP01</string>
+    <string name="title_value">Money Converter</string>
+    <string name="value_hint">input a decomal value</string>
+    <string name="euro2dinar_value"><![CDATA[Euro --> Dinar]]></string>
+    <string name="dinar2euro_value"><![CDATA[Dinar --> Euro]]></string>
+    <string name="convert_value">Convert</string>
+    <string name="result_value">the result will be display here</string>
+    <string name="quitter_value">Quitter</string>
+    <string name="return_value">Return</string>
+    <string name="title_Intents_Value">Examples of Implicits Intents</string>
+    <string name="developper_name"> Mohamed</string>
+</resources>
